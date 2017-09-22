@@ -1,0 +1,15 @@
+Package: package3
+Type: Package
+Title: Lab3 Assigment
+Version: 1.0
+Date: 2017-09-22
+Authors@R: c(
+    person("Ashraful", email = "ashas926@student.liu.se", role = "cre"),
+    person("jorge villar", email = "jvf96@student.liu.se", role = "aut"))
+Maintainer: Ashraful Alam <ashrafiu09@gmail.com>
+Description: The lab constists of writing a package that is version controlled on github.com.
+License: cc0
+RoxygenNote: 6.0.1
+LazyData: true
+Suggests: testthat
+Depends: R (>= 2.10)
