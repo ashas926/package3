@@ -1,6 +1,4 @@
 \name{package3-package}
-\alias{package3-package}
-\alias{package3}
 \docType{package}
 \title{
 \packageTitle{package3}
@@ -15,7 +13,8 @@ The DESCRIPTION file
 \packageIndices{package3}
 package contains implementations of two algorithm,Dijkstra and Euclidean
 }
-\author {packageAuthor {Ashraful}
+\author{ packageAuthor {Ashraful}
+
 Maintainer packageMaintainer{Ashraful}
 }
 

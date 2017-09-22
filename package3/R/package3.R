@@ -12,6 +12,6 @@
 #' @seealso \link[package3]{euclidean}
 #' @seealso \link[package3]{dijkstra}
 #' @seealso \link[package3]{wiki_graph}
-#' @docType package3
+#' @docType package
 #' @name package3
 NULL
